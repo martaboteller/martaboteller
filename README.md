@@ -33,5 +33,5 @@
 <br/><br/>
 
 <h3>Github stats</h3>
-<code><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=martaboteller" height="200" width="200"/></code>
-<code><img src="https://github-readme-stats.vercel.app/api?username=martaboteller&show_icons=true&hide_border=true" height="200" width="300"/></code>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=martaboteller" height="200" width="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=martaboteller&show_icons=true&hide_border=true" height="200" width="300"/>
