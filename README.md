@@ -29,6 +29,9 @@
 <code><img style="border:solid;border-color:black;padding:4px 4px 4px" src="https://www.pngitem.com/pimgs/m/31-317100_firebase-logo-png-transparent-png.png" alt="firebase" width="40" height="40"/></code>
 <code><img style="border:solid;border-color:black;padding:4px 4px 4px" src="https://freepikpsd.com/file/2019/10/java-logo-png-6-Transparent-Images.png" alt="java" width="40" height="40"/></code>
 <code><img style="border:solid;border-color:black;padding:4px 4px 4px" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" alt=".net" width="40" height="40"/></code>
+<code><img style="border:solid;border-color:black;padding:4px 4px 4px" src="https://www.appbrain.com/stats/libraries/square-icon/ionic.png" alt="ionic" width="40" height="40"/></code>
+
+
 
 <br/><br/>
 
