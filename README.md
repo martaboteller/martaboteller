@@ -31,7 +31,78 @@
 <code><img style="border:solid;border-color:black;padding:4px 4px 4px" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" alt=".net" width="40" height="40"/></code>
 <code><img style="border:solid;border-color:black;padding:4px 4px 4px" src="https://www.appbrain.com/stats/libraries/square-icon/ionic.png" alt="ionic" width="40" height="40"/></code>
 
+<br/><br/>
+<h3>Project's list</h3>
 
+Angular
+1. Reis app
+2. UVic website
+3. <a href="https://github.com/martaboteller/FixamApp">Progressive web app Fixa'm (Angular/Ionic, Firebase)</a>
+4. <a href="https://github.com/martaboteller/mean-stack">CRUD web (MongoDB, Express, Angular, Node) + Heroku</a>
+
+React
+1. <a href="https://github.com/martaboteller/mern-stack">Tasks web app (MySQL, Express, React, Node) + Vite</a>
+
+2. <a href="https://github.com/martaboteller/react-my-blog-linkedin-course">CRUD blog (MongoDB, Express, React, Node) + AWS</a>
+
+
+Java
+1. <a href="https://github.com/martaboteller/MyFirstApp">My first app (Java)</a>
+2. <a href="https://github.com/martaboteller/TripMemories_with_sidemenu">Trip Memories Android app (Java)</a>
+
+Swift
+1. <a href="https://github.com/martaboteller/MyPlacesPublic">My Places app (Swift)</a>
+2. <a href="https://github.com/martaboteller/AlamofireExamplePublic">Alamofire example</a>
+3. <a href="https://github.com/martaboteller/KVOExample">KVO example</a>
+
+Others
+1. <a href="https://github.com/martaboteller/Firebase-Auth">Firebase auth</a>
+
+
+<br/><br/>
+<h3>Fullstack roadmap</h3>
+
+#### Basics
+- [x] Git, GitHub Workflow
+- [x] Terminal and command line basics
+- [x] Linux basics
+- [x] Client/Server architecture
+
+#### Frontend    
+- [x] HTML
+- [x] CSS
+- [x] Javascript
+- [x] Typescript
+- [x] DOM Manipulation
+- [ ] AJAX
+- [x] Fetch API Axios
+- [ ] SASS, LESS
+- [x] React, Vue, Angular
+- [ ] Global state management with Redux
+- [ ] Linters
+- [ ] Next.JS, Nuxt.JS, Angular Universal
+- [x] Deployment
+- [ ] Unit Testing
+- [ ] End-to-End Testing
+
+#### Backend
+- [x] Node.JS
+- [x] HTTP Methods
+- [x] Express (Routes, Controllers, Errors handling)
+- [x] Environment variables
+- [x] Express Middlewares
+- [ ] Authentication with JSON Web Tokens
+- [x] MongoDB with Mongoose ORM
+- [x] SQL
+- [ ] TypeORM
+- [ ] Password hashing
+- [ ] NEST.JS
+- [ ] Caching
+- [x] Deployment
+  
+#### Others
+- [x] Docker
+- [ ] kubernetes
 
 <br/><br/>
 
