@@ -39,6 +39,9 @@ React
 
 3. <a href="https://github.com/martaboteller/building_modern_projects_with_react_linkedin">React Linkedin course (Redux, thunks, selectors, styled-components and tests) </a>
 
+Vue
+1. <a href="https://github.com/martaboteller/building_an_interface_vue_linkedin">Building an Interface with Vue - Linkedin course by Ray Villalobos</a>
+
 Java
 
 1. <a href="https://github.com/martaboteller/MyFirstApp">My first app (Java)</a>
