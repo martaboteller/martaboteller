@@ -43,6 +43,7 @@ Vue
 1. <a href="https://github.com/martaboteller/building_an_interface_vue_linkedin">Building an Interface with Vue - Linkedin course by Ray Villalobos</a>
 2. <a href="https://github.com/martaboteller/linkedin-vue-node-auth/">Building Vue and Node Apps with Authentication - Linkedin course by Alexander Zanfir</a>
 3. <a href="https://github.com/martaboteller/vuefullstackfirebase">Vue Fullstack application with Firebase - Linkedin course by Ray Villalobos</a>
+4. <a href="https://github.com/martaboteller/vuex-linkedin">Vuex - A Linkedin course by Alexander Zanfir</a>
 
 Java
 
