@@ -34,9 +34,7 @@ Angular
 React
 
 1. <a href="https://github.com/martaboteller/mern-stack">Tasks web app (MySQL, Express, React, Node) + Vite</a>
-
 2. <a href="https://github.com/martaboteller/react-my-blog-linkedin-course">CRUD blog (MongoDB, Express, React, Node) + AWS</a>
-
 3. <a href="https://github.com/martaboteller/building_modern_projects_with_react_linkedin">React Linkedin course (Redux, thunks, selectors, styled-components and tests) </a>
 4. <a href="https://github.com/martaboteller/react-auth-mongodb">React Linkedin course (Authentication with MongoDB)</a>
 
