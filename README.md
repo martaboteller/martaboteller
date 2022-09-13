@@ -37,6 +37,7 @@ React
 2. <a href="https://github.com/martaboteller/react-my-blog-linkedin-course">CRUD blog (MongoDB, Express, React, Node) + AWS</a>
 3. <a href="https://github.com/martaboteller/building_modern_projects_with_react_linkedin">React Linkedin course (Redux, thunks, selectors, styled-components and tests) </a>
 4. <a href="https://github.com/martaboteller/react-auth-mongodb">React Linkedin course (Authentication with MongoDB)</a>
+5. <a href="https://github.com/martaboteller/react-auth-mongodb-aws">React Linkedin course (Authentication with MongoDB and AWS Cognito)</a>
 
 Vue
 1. <a href="https://github.com/martaboteller/building_an_interface_vue_linkedin">Building an Interface with Vue - Linkedin course by Ray Villalobos</a>
