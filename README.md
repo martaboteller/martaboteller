@@ -56,6 +56,10 @@ Swift
 2. <a href="https://github.com/martaboteller/AlamofireExamplePublic">Alamofire example</a>
 3. <a href="https://github.com/martaboteller/KVOExample">KVO example</a>
 
+Python
+
+1. <a href="https://github.com/martaboteller/djangoessentialtraining">Django Essential Training - Linkedin course by Leticia Portella </a>
+
 Others
 
 1. <a href="https://github.com/martaboteller/Firebase-Auth">Firebase auth</a>
