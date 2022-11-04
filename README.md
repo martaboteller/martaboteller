@@ -92,7 +92,7 @@ Others
 - [x] Deployment
 - [ ] Unit Testing
 - [ ] End-to-End Testing
-- [ ] Django
+- [x] Django
 - [ ] Flask
 
 #### Backend
@@ -111,7 +111,7 @@ Others
 - [ ] Caching
 - [x] Deployment
 - [ ] PHP
-- [ ] Python
+- [x] Python
 - [ ] Ruby on rails
 
 #### Mobile
