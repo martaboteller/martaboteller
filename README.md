@@ -59,6 +59,7 @@ Swift
 Python
 
 1. <a href="https://github.com/martaboteller/djangoessentialtraining">Django Essential Training - Linkedin course by Leticia Portella </a>
+2. <a href="https://github.com/martaboteller/djangoforms">Django:Forms - Linkedin course by Nick Walter</a>
 
 Others
 
